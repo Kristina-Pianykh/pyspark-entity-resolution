@@ -71,7 +71,6 @@ target/
 .venv
 **/.ipynb_checkpoints
 **/*.crc
-**/*.csv
 
 **/*dblp*
 **/*citation-acm-v8*
